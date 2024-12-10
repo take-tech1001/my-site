@@ -4283,10 +4283,10 @@ chokidar@^3.6.0:
   optionalDependencies:
     fsevents "~2.3.2"
 
-chromatic@11.14.0:
-  version "11.14.0"
-  resolved "https://registry.yarnpkg.com/chromatic/-/chromatic-11.14.0.tgz#c93cbc3b12cc1a306e00a231d6bae9582bf79697"
-  integrity sha512-qt7xXpdrwssBtXWv30aW46HAK10bF4Ep7SMjtMQhD61Fg4IS9aImT0WFeig7utpXYHOx0eSysjwhz0cgYz9SDg==
+chromatic@11.20.0:
+  version "11.20.0"
+  resolved "https://registry.yarnpkg.com/chromatic/-/chromatic-11.20.0.tgz#bcd49bcb0b1a894499d5c4dff4115f818e8d2f7e"
+  integrity sha512-Btdli1qoAI01UKmk3Iqe6vKhAhePRXqNI/2uKKy2R16q7SN/5kLTqhd1JI20LFOZSnH3xSJaUXeJ2xZOJB//3A==
 
 ci-info@^3.7.0:
   version "3.9.0"
